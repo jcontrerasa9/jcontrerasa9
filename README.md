@@ -16,7 +16,6 @@ Me apasiona la ciencia de datos, desarrollo de software e inteligencia artificia
 
 ![GitHub statistics](https://github-readme-stats.shion.dev/api?username=jcontrerasa9&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)  
 
-## :zap: Actividad reciente:
+## :zap: Recent Activity
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
