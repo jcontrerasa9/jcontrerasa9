@@ -18,13 +18,13 @@ Me apasiona la ciencia de datos, desarrollo de software e inteligencia artificia
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/jcontrerasa9/repoCursoPlatzi/issues/4) in [jcontrerasa9/repoCursoPlatzi](https://github.com/jcontrerasa9/repoCursoPlatzi)
-2. ❗ Opened issue [#4](https://github.com/jcontrerasa9/repoCursoPlatzi/issues/4) in [jcontrerasa9/repoCursoPlatzi](https://github.com/jcontrerasa9/repoCursoPlatzi)
-3. ℹ️ Assigned issue [#3](https://github.com/jcontrerasa9/repoCursoPlatzi/issues/3) in [jcontrerasa9/repoCursoPlatzi](https://github.com/jcontrerasa9/repoCursoPlatzi)
-4. ❗ Opened issue [#3](https://github.com/jcontrerasa9/repoCursoPlatzi/issues/3) in [jcontrerasa9/repoCursoPlatzi](https://github.com/jcontrerasa9/repoCursoPlatzi)
-5. ❗ Opened issue [#30](https://github.com/jcontrerasa9/gestion-torneos-unal/issues/30) in [jcontrerasa9/gestion-torneos-unal](https://github.com/jcontrerasa9/gestion-torneos-unal)
-6. ❗ Opened issue [#1](https://github.com/jcontrerasa9/repoCursoPlatzi/issues/1) in [jcontrerasa9/repoCursoPlatzi](https://github.com/jcontrerasa9/repoCursoPlatzi)
-7. ℹ️ Assigned issue [#3](https://github.com/jcontrerasa9/repoCursoPlatzi/issues/3) in [jcontrerasa9/repoCursoPlatzi](https://github.com/jcontrerasa9/repoCursoPlatzi)
+1. ❗ Opened issue [#1](https://github.com/jcontrerasa9/derivada_x2/issues/1) in [jcontrerasa9/derivada_x2](https://github.com/jcontrerasa9/derivada_x2)
+2. 🔒 Closed issue [#4](https://github.com/jcontrerasa9/repoCursoPlatzi/issues/4) in [jcontrerasa9/repoCursoPlatzi](https://github.com/jcontrerasa9/repoCursoPlatzi)
+3. ❗ Opened issue [#4](https://github.com/jcontrerasa9/repoCursoPlatzi/issues/4) in [jcontrerasa9/repoCursoPlatzi](https://github.com/jcontrerasa9/repoCursoPlatzi)
+4. ℹ️ Assigned issue [#3](https://github.com/jcontrerasa9/repoCursoPlatzi/issues/3) in [jcontrerasa9/repoCursoPlatzi](https://github.com/jcontrerasa9/repoCursoPlatzi)
+5. ❗ Opened issue [#3](https://github.com/jcontrerasa9/repoCursoPlatzi/issues/3) in [jcontrerasa9/repoCursoPlatzi](https://github.com/jcontrerasa9/repoCursoPlatzi)
+6. ❗ Opened issue [#30](https://github.com/jcontrerasa9/gestion-torneos-unal/issues/30) in [jcontrerasa9/gestion-torneos-unal](https://github.com/jcontrerasa9/gestion-torneos-unal)
+7. ❗ Opened issue [#1](https://github.com/jcontrerasa9/repoCursoPlatzi/issues/1) in [jcontrerasa9/repoCursoPlatzi](https://github.com/jcontrerasa9/repoCursoPlatzi)
 8. ❗ Opened issue [#3](https://github.com/jcontrerasa9/repoCursoPlatzi/issues/3) in [jcontrerasa9/repoCursoPlatzi](https://github.com/jcontrerasa9/repoCursoPlatzi)
 9. ❗ Opened issue [#30](https://github.com/jcontrerasa9/gestion-torneos-unal/issues/30) in [jcontrerasa9/gestion-torneos-unal](https://github.com/jcontrerasa9/gestion-torneos-unal)
 10. 🎉 Merged PR [#2](https://github.com/jcontrerasa9/repoCursoPlatzi/pull/2) in [jcontrerasa9/repoCursoPlatzi](https://github.com/jcontrerasa9/repoCursoPlatzi)
