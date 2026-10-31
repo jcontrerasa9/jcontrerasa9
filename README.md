@@ -18,12 +18,12 @@ Me apasiona la ciencia de datos, desarrollo de software e inteligencia artificia
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/jcontrerasa9/aprende_algoritmos/pull/2) in [jcontrerasa9/aprende_algoritmos](https://github.com/jcontrerasa9/aprende_algoritmos)
-2. 💪 Opened PR [#2](https://github.com/jcontrerasa9/aprende_algoritmos/pull/2) in [jcontrerasa9/aprende_algoritmos](https://github.com/jcontrerasa9/aprende_algoritmos)
-3. 🎉 Merged PR [#1](https://github.com/jcontrerasa9/aprende_algoritmos/pull/1) in [jcontrerasa9/aprende_algoritmos](https://github.com/jcontrerasa9/aprende_algoritmos)
-4. 💪 Opened PR [#1](https://github.com/jcontrerasa9/aprende_algoritmos/pull/1) in [jcontrerasa9/aprende_algoritmos](https://github.com/jcontrerasa9/aprende_algoritmos)
-5. ❗ Opened issue [#3](https://github.com/jcontrerasa9/repoCursoPlatzi/issues/3) in [jcontrerasa9/repoCursoPlatzi](https://github.com/jcontrerasa9/repoCursoPlatzi)
-6. ❗ Opened issue [#30](https://github.com/jcontrerasa9/gestion-torneos-unal/issues/30) in [jcontrerasa9/gestion-torneos-unal](https://github.com/jcontrerasa9/gestion-torneos-unal)
+1. 🎉 Merged PR [#3](https://github.com/jcontrerasa9/aprende_algoritmos/pull/3) in [jcontrerasa9/aprende_algoritmos](https://github.com/jcontrerasa9/aprende_algoritmos)
+2. 💪 Opened PR [#3](https://github.com/jcontrerasa9/aprende_algoritmos/pull/3) in [jcontrerasa9/aprende_algoritmos](https://github.com/jcontrerasa9/aprende_algoritmos)
+3. 🎉 Merged PR [#2](https://github.com/jcontrerasa9/aprende_algoritmos/pull/2) in [jcontrerasa9/aprende_algoritmos](https://github.com/jcontrerasa9/aprende_algoritmos)
+4. 💪 Opened PR [#2](https://github.com/jcontrerasa9/aprende_algoritmos/pull/2) in [jcontrerasa9/aprende_algoritmos](https://github.com/jcontrerasa9/aprende_algoritmos)
+5. 🎉 Merged PR [#1](https://github.com/jcontrerasa9/aprende_algoritmos/pull/1) in [jcontrerasa9/aprende_algoritmos](https://github.com/jcontrerasa9/aprende_algoritmos)
+6. 💪 Opened PR [#1](https://github.com/jcontrerasa9/aprende_algoritmos/pull/1) in [jcontrerasa9/aprende_algoritmos](https://github.com/jcontrerasa9/aprende_algoritmos)
 7. ❗ Opened issue [#1](https://github.com/jcontrerasa9/repoCursoPlatzi/issues/1) in [jcontrerasa9/repoCursoPlatzi](https://github.com/jcontrerasa9/repoCursoPlatzi)
 8. ❗ Opened issue [#3](https://github.com/jcontrerasa9/repoCursoPlatzi/issues/3) in [jcontrerasa9/repoCursoPlatzi](https://github.com/jcontrerasa9/repoCursoPlatzi)
 9. ❗ Opened issue [#30](https://github.com/jcontrerasa9/gestion-torneos-unal/issues/30) in [jcontrerasa9/gestion-torneos-unal](https://github.com/jcontrerasa9/gestion-torneos-unal)
